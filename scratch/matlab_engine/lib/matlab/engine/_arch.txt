@@ -1,0 +1,4 @@
+win64
+E:\MySoftwares\Softwares\MATLAB\R2026a\extern\engines\python\..\..\..\bin\win64
+E:\MySoftwares\Softwares\MATLAB\R2026a\extern\engines\python\dist\matlab\engine\win64
+E:\MySoftwares\Softwares\MATLAB\R2026a\extern\engines\python\..\..\..\extern\bin\win64

@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MATLAB temporary files and outputs
+*.mat
+temp_in_*.mat
+temp_out_*.mat
+
+# Django
+db.sqlite3
+local_settings.py
+static/floorplan_results/
+pakistani_generator/sessions/
+
+# Large Datasets (Should be downloaded separately)
+# *.pkl
+
+# OS generated files
+.DS_Store
+Thumbs.db
