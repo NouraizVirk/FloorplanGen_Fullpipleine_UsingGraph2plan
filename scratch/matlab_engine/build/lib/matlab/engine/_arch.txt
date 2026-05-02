@@ -1,4 +1,0 @@
-win64
-E:\MySoftwares\Softwares\MATLAB\R2026a\bin\win64
-E:\Projects\FYP\Graph2Plan\scratch\matlab_engine\dist\matlab\engine\win64
-E:\MySoftwares\Softwares\MATLAB\R2026a\extern\bin\win64
